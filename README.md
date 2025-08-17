@@ -1,6 +1,6 @@
 <!-- SEO/ATS: AI, Machine Learning, Data Science, NLP, Computer Vision, LLMs, MLOps, Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Flask, SQL -->
 
-<h1 align="center">👋 Hi, I'm Nandhu (Nandini B R)</h1>
+<h1 align="center">👋 Hi,(Nandini B R)</h1>
 <h3 align="center">🚀 Aspiring <span style="color:#00d2ff">AI/ML</span> Engineer & Data Scientist — building practical, business-focused AI</h3>
 
 <p align="center">
