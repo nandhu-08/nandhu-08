@@ -31,7 +31,7 @@
 ### 🧪 Featured AI Projects
 
 
-- 📚 **College Q&A Chatbot (NLP + Flask):** Intent classification, entity extraction, FAQ matching, simple retrieval; deployed as a web endpoint for student queries.  
+- 📚 **🤖 Conversational AI Assistant (LangChain + Groq)**: An AI-focused chatbot that answers Artificial Intelligence–related questions with memory-enabled, context-aware responses through a CLI interface.  
 - 👁️ **Image Classification (CV):** CNN-based classifier with data augmentation and confusion-matrix driven error analysis.  
 - 📊 **Student Dropout Risk (ML):** Feature engineering + tree models; SHAP-style interpretability to explain predictions.  
 
