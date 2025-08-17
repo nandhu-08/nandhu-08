@@ -29,13 +29,12 @@
 ---
 
 ### 🧪 Featured AI Projects
-> Add your repo links later—these titles are recruiter-friendly.
+
 
 - 📚 **College Q&A Chatbot (NLP + Flask):** Intent classification, entity extraction, FAQ matching, simple retrieval; deployed as a web endpoint for student queries.  
 - 👁️ **Image Classification (CV):** CNN-based classifier with data augmentation and confusion-matrix driven error analysis.  
 - 📊 **Student Dropout Risk (ML):** Feature engineering + tree models; SHAP-style interpretability to explain predictions.  
 
-> Tip: rename your repos similarly (clear problem → method → result), and add short READMEs with **demo GIFs** + **metrics**.
 
 ---
 
